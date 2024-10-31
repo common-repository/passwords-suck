@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="93px" viewBox="0 0 467 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Swoop in button - 11-20-19</title>
+    <desc>Created with Sketch.</desc>
+    <g id="swoop-login---everything" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Log-in" transform="translate(-556.000000, -457.000000)">
+            <g id="Swoop-in-button---11-20-19" transform="translate(556.000000, 457.000000)">
+                <rect id="Rectangle" fill="#13B47E" x="0" y="0" width="467" height="93" rx="8"></rect>
+                <text id="Swoop-in-with-email" fill="#FFFFFF" font-family="Lato-Regular, Lato" font-size="36" font-weight="normal">
+                    <tspan x="122.4" y="60">Swoop </tspan>
+                    <tspan x="235.908" y="60">in with email</tspan>
+                </text>
+                <g id="email-icon" transform="translate(26.400000, 29.400000)">
+                    <g id="Group" transform="translate(12.000000, 0.000000)" fill-rule="nonzero">
+                        <path d="M50.832,3.504 C50.592,3.024 49.944,2.928 49.392,3.288 L33.048,13.584 L30.912,14.928 L26.256,17.856 L23.184,14.928 L21.768,13.584 L10.92,3.288 C10.536,2.928 9.84,3.024 9.36,3.504 C8.88,3.984 8.784,4.656 9.168,5.016 L19.632,14.952 L21.048,16.296 L25.032,20.088 C25.176,20.232 25.392,20.304 25.632,20.304 C25.872,20.304 26.112,20.232 26.328,20.088 L32.328,16.296 L34.464,14.952 L50.232,5.016 C50.784,4.656 51.048,3.96 50.832,3.504 Z" id="Path" fill="#FAA41A"></path>
+                        <path d="M3.816,24.864 C3.24,25.224 2.976,25.896 3.216,26.376 C3.456,26.856 4.104,26.952 4.656,26.592 L21.024,16.296 L19.608,14.952 L3.816,24.864 Z" id="Path" fill="#C9CCE7"></path>
+                        <path d="M43.128,26.592 C43.272,26.736 43.488,26.808 43.728,26.808 C44.064,26.808 44.424,26.664 44.688,26.376 C45.168,25.896 45.264,25.224 44.88,24.864 L34.416,14.928 L32.28,16.272 L43.128,26.592 Z" id="Path" fill="#C9CCE7"></path>
+                        <path d="M50.424,0.528 L11.328,0.528 C9.096,0.528 6.816,2.328 6.216,4.56 L0.624,25.464 C0.024,27.696 1.344,29.496 3.576,29.496 L42.672,29.496 C44.904,29.496 47.184,27.696 47.784,25.464 L53.376,4.56 C53.976,2.328 52.656,0.528 50.424,0.528 Z M44.88,24.864 C45.264,25.224 45.168,25.896 44.688,26.376 C44.4,26.664 44.04,26.808 43.728,26.808 C43.512,26.808 43.296,26.736 43.128,26.592 L32.304,16.296 L26.304,20.088 C26.064,20.232 25.824,20.304 25.608,20.304 C25.368,20.304 25.176,20.232 25.008,20.088 L21.024,16.296 L4.656,26.592 C4.08,26.952 3.432,26.856 3.216,26.376 C2.976,25.896 3.264,25.224 3.816,24.864 L19.584,14.928 L9.12,4.992 C8.736,4.632 8.832,3.96 9.312,3.48 C9.792,3 10.488,2.904 10.872,3.264 L21.72,13.56 L23.136,14.904 L26.208,17.832 L30.864,14.904 L33,13.56 L49.344,3.264 C49.92,2.904 50.568,3 50.784,3.48 C51.024,3.96 50.736,4.632 50.184,4.992 L34.416,14.928 L44.88,24.864 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                    <line x1="15.12" y1="39.336" x2="55.296" y2="39.336" id="Path" stroke="#07986C" stroke-width="4.48872" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="4.752" y1="10.296" x2="20.184" y2="10.296" id="Path" stroke="#FFFFFF" stroke-width="4.48872" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="16.752" y1="19.752" x2="9.984" y2="19.752" id="Path" stroke="#FFFFFF" stroke-width="4.48872" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="3.48" y1="19.752" x2="0.192" y2="19.752" id="Path" stroke="#FFFFFF" stroke-width="4.48872" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
